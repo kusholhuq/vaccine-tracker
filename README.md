@@ -2,9 +2,11 @@
 An interactive display of the latest distribution data for the Covid-19 vaccine, possibly a clone of the [NY Times Tracker](https://www.nytimes.com/interactive/2020/us/covid-19-vaccine-doses.html)
 
 ### Latest Data
-The app displays the latest data pulled directly from the `???` API
+The app displays the latest data pulled directly from the [`CDC API`](https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf).  
+The CDC API disseminates data about the Coronavirus pandemic to the public. The API offers both case/death numbers and vaccine data. 
 
-> "I'm doing this to demonstrate that people should be prepared when it's availalbe to take the vaccine" - Joe Biden
+> "I'm doing this to demonstrate that people should be prepared when it's availalbe to take the vaccine" 
+- **Joe Biden**
 
 ### Feature Set
 The interactive map allows you to: 
